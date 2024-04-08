@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.red `\n\t Welcome To  "G.I.P" = Currency Converted Program\n`);
